@@ -106,8 +106,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039103_0000_1013C309476A3568"/>
-            <pb facs="tcp:039103_0001_1013C3121513FB18" rendition="simple:additions"/>
+            <pb facs="unknown:039103_0000_1013C309476A3568"/>
+            <pb facs="unknown:039103_0001_1013C3121513FB18"
+                rendition="simple:additions"/>
             <p>
                <hi>WILLIAM RILEY's COURTSHIP</hi> TO <hi>COLLIAN BAND, SHEWING</hi> How he was perſecuted by her Father;—alſo how ſhe was confined in her chamber until ſhe was crazy; ſent to Bedlam, where ſhe was kept in cloſe confinement un<g ref="char:EOLhyphen"/>til Riley came with the Lord Lt. of Ireland, &amp;c reſcued her from out of the hands of his en<g ref="char:EOLhyphen"/>emies, &amp; made her perfectly happy by <hi>MARRIAGE. TO WHICH IS ADDED THE SHOEMAKER's FAVORITE. TOGETHER WITH</hi> CONTENTMENT.</p>
             <p>NEW-HAVEN, PRINTED: SUFFIELD, RE-PRINTED. 1800.</p>
@@ -115,8 +116,9 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:039103_0002_1013C3139AD10938" rendition="simple:additions"/>
-            <pb facs="tcp:039103_0003_1013C319A27B4158"/>
+            <pb facs="unknown:039103_0002_1013C3139AD10938"
+                rendition="simple:additions"/>
+            <pb facs="unknown:039103_0003_1013C319A27B4158"/>
             <head>WILLIAM RILEY's COURTSHIP.</head>
             <div n="1" type="part">
                <head>PART FIRST.</head>
@@ -169,7 +171,7 @@
                   <l>Still hoping to be ſaved by my deareſt Collian Band.</l>
                </lg>
                <lg n="8">
-                  <pb n="4" facs="tcp:039103_0004_1013C31B2A14DB90"/>
+                  <pb n="4" facs="unknown:039103_0004_1013C31B2A14DB90"/>
                   <head>VIII.</head>
                   <l>O then ſpake her father ſaying, take pity now on me,</l>
                   <l>This fellow came among us to diſgrace my family;</l>
@@ -227,7 +229,7 @@
                </lg>
             </div>
             <div n="2" type="part">
-               <pb n="5" facs="tcp:039103_0005_1013C31CB0206388"/>
+               <pb n="5" facs="unknown:039103_0005_1013C31CB0206388"/>
                <head>PART SECOND.</head>
                <lg>
                   <l>YOU tender hearted lovers attend unto my theme,</l>
@@ -285,7 +287,7 @@
                   <l>Though I lie here in Bedlam, young Riley has my heart.</l>
                </lg>
                <lg n="24">
-                  <pb n="6" facs="tcp:039103_0006_1013C3206E487320"/>
+                  <pb n="6" facs="unknown:039103_0006_1013C3206E487320"/>
                   <head>(XXIV.)</head>
                   <l>We now will leave this lady to ſigh, weep and bewail,</l>
                   <l>And turn unto young Riley confin'd in Slago jail;</l>
@@ -349,7 +351,7 @@
             </div>
          </div>
          <div type="poem">
-            <pb n="7" facs="tcp:039103_0007_1013C324F1176DB8"/>
+            <pb n="7" facs="unknown:039103_0007_1013C324F1176DB8"/>
             <head>THE <hi>SHOEMAKER's FAVORITE.</hi>—A NEW SONG.</head>
             <lg>
                <l>VAIN pleaſures of this life &amp; allurements I do ſlight,</l>
@@ -401,7 +403,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="8" facs="tcp:039103_0008_1013C328490BF2D0"/>
+            <pb n="8" facs="unknown:039103_0008_1013C328490BF2D0"/>
             <head>CONTENTMENT.</head>
             <l>WHY ſhould we at our lot complain,</l>
             <l>Or grieve at our diſtreſs;</l>
